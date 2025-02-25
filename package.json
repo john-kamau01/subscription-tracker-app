@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/john-kamau01/subscription-tracker-app#readme",
   "dependencies": {
+    "@arcjet/node": "^1.0.0-beta.2",
     "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
     "dotenv": "^16.4.7",
